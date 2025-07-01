@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Task3_4
+namespace Task3_06
 {
     internal class Program
     {
